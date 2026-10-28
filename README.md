@@ -23,10 +23,10 @@ pip install -r requirements.txt
 Crear .env con BSKY_IDENTIFIER, BSKY_PASSWORD, GEMINI_API_KEY, MONGO_URI
 
 ## Uso
-python 1_3_Apellido1_Apellido2_Nombre.py
+python 1_3_Curiel_Hernandez_Ruben.py
 
 ## Autor
-Tu nombre
+Rubén Curiel Hernández
 
 ## Licencia
 MIT
